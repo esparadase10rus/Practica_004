@@ -1,0 +1,15 @@
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\bin\Debug\net6.0\Example_027.exe
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\bin\Debug\net6.0\Example_027.deps.json
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\bin\Debug\net6.0\Example_027.runtimeconfig.json
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\bin\Debug\net6.0\Example_027.dll
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\bin\Debug\net6.0\Example_027.pdb
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\obj\Debug\net6.0\Example_027.csproj.AssemblyReference.cache
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\obj\Debug\net6.0\Example_027.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\obj\Debug\net6.0\Example_027.AssemblyInfoInputs.cache
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\obj\Debug\net6.0\Example_027.AssemblyInfo.cs
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\obj\Debug\net6.0\Example_027.csproj.CoreCompileInputs.cache
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\obj\Debug\net6.0\Example_027.dll
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\obj\Debug\net6.0\refint\Example_027.dll
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\obj\Debug\net6.0\Example_027.pdb
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\obj\Debug\net6.0\Example_027.genruntimeconfig.cache
+C:\Users\arter\Desktop\Домашка\Practica_C#_004\Example_027\obj\Debug\net6.0\ref\Example_027.dll
